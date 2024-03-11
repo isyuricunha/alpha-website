@@ -64,12 +64,12 @@ export default Vue.extend({
         description,
         image,
         keywords: "premid, custom, status",
-        url: "https://eggsy.xyz/projects/premid/custom-status",
+        url: "https://yuricunha.com/projects/premid/custom-status",
       }),
       link: [
         {
           rel: "canonical",
-          href: "https://eggsy.xyz/projects/premid/custom-status",
+          href: "https://yuricunha.com/projects/premid/custom-status",
         },
         {
           rel: "prefetch",
@@ -534,7 +534,7 @@ export default Vue.extend({
                 v-model="presence.buttons[0].url"
                 type="text"
                 class="w-full"
-                placeholder="https://eggsy.xyz"
+                placeholder="https://yuricunha.com"
               />
             </div>
 

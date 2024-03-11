@@ -33,12 +33,12 @@ export default Vue.extend({
         description,
         image,
         keywords: "premid, custom, status",
-        url: "https://eggsy.xyz/projects/premid",
+        url: "https://yuricunha.com/projects/premid",
       }),
       link: [
         {
           rel: "canonical",
-          href: "https://eggsy.xyz/projects/premid",
+          href: "https://yuricunha.com/projects/premid",
         },
       ],
     }

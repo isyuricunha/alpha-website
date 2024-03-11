@@ -57,7 +57,7 @@ export default Vue.extend({
       post.description || "EGGSY'nin blogunda bu yazıyı okumaya davet edildin."
 
     const tags = getTags?.join(", ") || title
-    const href = `https://eggsy.xyz${this.$route?.path}`
+    const href = `https://yuricunha.com${this.$route?.path}`
     const image = `/og-images/${post.slug}.png`
 
     return {
@@ -217,7 +217,7 @@ export default Vue.extend({
       <Disqus
         v-if="!$config.isDev"
         :title="post.title"
-        :url="`https://eggsy.xyz/blog/${post.slug}`"
+        :url="`https://yuricunha.com/blog/${post.slug}`"
         :identifier="`/blog/${post.slug}`"
         :slug="post.slug"
         lang="tr"

@@ -13,7 +13,7 @@ indicatorsHidden: true
 
 Eğer yakın zamanda benim gibi YouTube (veya başka bir) müzik sağlayıcısından Spotify'a geçiş yaptıysanız YouTube'da dinlediğiniz şarkıyı arkadaşlarınızla paylaşmanın biraz daha kolay olduğunu düşünüyor olabilirsiniz. Peki size Spotify'a geçseniz bile müziklerinizi paylaşmadan önce Node.js ile Spotify bağlantılarınızdan YouTube bağlantılarına ulaşabileceğinizi söylesem?
 
-<blog-notification title="Ben nerede ihtiyaç duyuyorum?">Bu sitede bulunan [Günlük Müzik](https://eggsy.xyz/daily) sayfasında herkesin dinleyebilmesi için müzikleri YouTube üzerinden paylaşıyorum. Spotify'a geçince oraya Spotify koymam, birçok kişi için can sıkıcı olabilirdi fakat GitHub'da bulunan [firestore-checker](https://github.com/eggsy/firestore-checker) projemi buna göre düzenleyip artık Spotify bağlantılarını YouTube'a dönüştürüp siteme müzikleri eklemeye devam edebiliyorum!</blog-notification>
+<blog-notification title="Ben nerede ihtiyaç duyuyorum?">Bu sitede bulunan [Günlük Müzik](https://yuricunha.com/daily) sayfasında herkesin dinleyebilmesi için müzikleri YouTube üzerinden paylaşıyorum. Spotify'a geçince oraya Spotify koymam, birçok kişi için can sıkıcı olabilirdi fakat GitHub'da bulunan [firestore-checker](https://github.com/eggsy/firestore-checker) projemi buna göre düzenleyip artık Spotify bağlantılarını YouTube'a dönüştürüp siteme müzikleri eklemeye devam edebiliyorum!</blog-notification>
 
 ### İhtiyacınız olanlar
 

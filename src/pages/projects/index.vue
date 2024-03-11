@@ -139,7 +139,7 @@ export default {
         buttons: [
           {
             text: "Visit",
-            link: "https://visualizer.eggsy.xyz",
+            link: "https://visualizer.yuricunha.com",
             icon: "IconLink",
           },
           {
@@ -157,7 +157,7 @@ export default {
         buttons: [
           {
             text: "Visit",
-            link: "https://lanyard.eggsy.xyz",
+            link: "https://lanyard.yuricunha.com",
             icon: "IconLink",
           },
           {
@@ -236,7 +236,7 @@ export default {
       },
       {
         note: "You are here!",
-        name: "eggsy.xyz",
+        name: "yuricunha.com",
         description:
           "My personal website, built with Nuxt.js, Windi CSS and Firebase!",
         image: "https://i.imgur.com/J4bqPcs.png",
