@@ -58,13 +58,6 @@ const Config: NuxtConfig = {
   // Modules
   vite,
   feed,
-
-  nitro: {
-    preset: "vercel",
-    output: {
-      dir: "../../.vercel/output",
-    },
-  },
 }
 
 export default Config
