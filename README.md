@@ -28,7 +28,7 @@ Website features many custom built systems, integrations and pages!
 
 You need to install [Node.js](https://nodejs.org/) and [Git](https://git-scm.com/downloads) to your machine. Node.js comes with its own package manager called `npm`, you can either use that or you can use [`pnpm`](https://pnpm.io/installation) since it's faster and caches downloaded dependencies properly.
 
-- Clone the repository with `git clone https://github.com/eggsy/website`
+- Clone the repository with `git clone https://github.com/isyuricunha/website`
 - Install dependencies with your preffered package manager.
   - With pnpm: `pnpm install`
   - With NPM: `npm install`
@@ -59,7 +59,7 @@ If you don't want to take the additional steps installing and configuring a Fire
 ### 💖 Sponsors
 
 <p align="center">
-  <a href="https://github.com/sponsors/eggsy">
-    <img src='https://cdn.jsdelivr.net/gh/eggsy/.github/sponsors.svg'/>
+  <a href="https://github.com/sponsors/isyuricunha">
+    <img src='https://cdn.jsdelivr.net/gh/isyuricunha/.github/sponsors.svg'/>
   </a>
 </p>

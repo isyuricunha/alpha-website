@@ -76,7 +76,7 @@ export default Vue.extend({
           title,
           description,
           image,
-          keywords: `${tags}, eggsy blog, blog, teknoloji, vue, yazılım, discord, eggsys`,
+          keywords: `${tags}, isyuricunha blog, blog, teknoloji, vue, yazılım, discord, eggsys`,
           url: href,
         },
         [

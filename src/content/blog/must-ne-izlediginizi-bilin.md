@@ -55,4 +55,4 @@ Must, aynı zamanda sürekli olarak güncellediği koleksiyonlarla da birçok ba
   <smart-figure src="https://i.imgur.com/C2KDnHg.jpg"></smart-figure>
 </blog-image-container>
 
-Bu ve bunun gibi birçok küçük ayrıntı ile izlediğiniz filmlerin ve dizilerin takibini yapmanızı kolaylaştıracak Must uygulamasının sitesine [buradan](https://mustapp.com/) ulaşabilir, beni takip etmek isterseniz benim profilime de [buradan](https://mustapp.com/@eggsydev) ulaşabilirsiniz.
+Bu ve bunun gibi birçok küçük ayrıntı ile izlediğiniz filmlerin ve dizilerin takibini yapmanızı kolaylaştıracak Must uygulamasının sitesine [buradan](https://mustapp.com/) ulaşabilir, beni takip etmek isterseniz benim profilime de [buradan](https://mustapp.com/@isyuricunha) ulaşabilirsiniz.

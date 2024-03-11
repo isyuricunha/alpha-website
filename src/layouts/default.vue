@@ -21,11 +21,11 @@ export default Vue.extend({
     this.posts = posts
   },
   head() {
-    let string = "yuricunha.com"
-    if (this.routeIsBlog) string = "yuricunha.com - blog"
+    let string = "Yuri Cunha"
+    if (this.routeIsBlog) string = "Yuri Cunha - blog"
 
     return {
-      titleTemplate: `%s - ${string}`,
+      titleTemplate: `%s / ${string}`,
       htmlAttrs: {
         class: `min-h-screen ${this.$colorMode.value}`,
       },

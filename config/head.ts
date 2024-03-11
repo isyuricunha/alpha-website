@@ -6,7 +6,7 @@ const description =
   "Young JavaScript developer from Turkey, interested in languages, gaming, and programming, trying to improve his JavaScript skills!"
 
 const Head: NuxtOptionsHead = {
-  title: "yuricunha.com",
+  title: "Yuri Cunha",
   meta: [
     { charset: "utf-8" },
     { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -24,12 +24,12 @@ const Head: NuxtOptionsHead = {
     {
       hid: "twitter:site",
       name: "twitter:site",
-      content: "@eggsydev",
+      content: "@isyuricunha",
     },
     {
       hid: "twitter:creator",
       name: "twitter:creator",
-      content: "@eggsydev",
+      content: "@isyuricunha",
     },
     {
       hid: "twitter:title",

@@ -89,7 +89,7 @@ export default Vue.extend({
           },
           {
             title: "EGGSY's Discord Bot",
-            url: "https://top.gg/bot/eggsy",
+            url: "https://top.gg/bot/isyuricunha",
             position: "Creator, Developer and Maintainer",
             date: "2017-2019",
           },
@@ -254,9 +254,7 @@ export default Vue.extend({
               class="font-semibold text-center text-lg md:(text-xl text-left) text-black/50 dark:text-white/50"
             >
               Hi, I am
-              <span class="text-black/90 dark:text-white/90"
-                >Abdulbaki Dursun</span
-              >
+              <span class="text-black/90 dark:text-white/90">Yuri Cunha</span>
             </h1>
 
             <h1

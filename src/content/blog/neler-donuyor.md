@@ -44,4 +44,4 @@ Yönlendirme yerine geçecek olan yeni bir sayfa tasarladım. Bu sayfada artık 
 
 ### Hepsi bu mu?
 
-Hayır elbette. Yazının başında da belirttiğim gibi, henüz hâlâ site üzerinde çalışmalarım yoğun bir şekilde sürüyor. Bir yandan yeni şeyler öğrenirken, yeni bir ekosisteme girmenin verdiği gururlandırıcı ve güzel hisler ile yoluma devam ediyorum. Sitenin gidişatını Discord sunucumdan veya [Twitter hesabımdan](https://twitter.com/eggsydev) takip edebilirsiniz.
+Hayır elbette. Yazının başında da belirttiğim gibi, henüz hâlâ site üzerinde çalışmalarım yoğun bir şekilde sürüyor. Bir yandan yeni şeyler öğrenirken, yeni bir ekosisteme girmenin verdiği gururlandırıcı ve güzel hisler ile yoluma devam ediyorum. Sitenin gidişatını Discord sunucumdan veya [Twitter hesabımdan](https://twitter.com/isyuricunha) takip edebilirsiniz.
