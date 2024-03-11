@@ -108,7 +108,7 @@ export default {
         buttons: [
           {
             text: "GitHub",
-            link: "https://github.com/isyuricunha/discord-steam-verification",
+            link: "https://github.com/eggsy/discord-steam-verification",
             icon: "IconBrand:github",
           },
         ],
@@ -126,7 +126,7 @@ export default {
           },
           {
             text: "GitHub",
-            link: "https://github.com/isyuricunha/unblock-please",
+            link: "https://github.com/eggsy/unblock-please",
             icon: "IconBrand:github",
           },
         ],
@@ -139,12 +139,12 @@ export default {
         buttons: [
           {
             text: "Visit",
-            link: "https://visualizer.yuricunha.com",
+            link: "https://visualizer.eggsy.xyz",
             icon: "IconLink",
           },
           {
             text: "GitHub",
-            link: "https://github.com/isyuricunha/lanyard-visualizer",
+            link: "https://github.com/eggsy/lanyard-visualizer",
             icon: "IconBrand:github",
           },
         ],
@@ -157,12 +157,12 @@ export default {
         buttons: [
           {
             text: "Visit",
-            link: "https://lanyard.yuricunha.com",
+            link: "https://lanyard.eggsy.xyz",
             icon: "IconLink",
           },
           {
             text: "GitHub",
-            link: "https://github.com/isyuricunha/lanyard-web",
+            link: "https://github.com/eggsy/lanyard-web",
             icon: "IconBrand:github",
           },
         ],
@@ -193,7 +193,7 @@ export default {
           },
           {
             text: "GitHub (v2)",
-            link: "https://github.com/isyuricunha/find-associative-words/tree/socket",
+            link: "https://github.com/eggsy/find-associative-words/tree/socket",
             icon: "IconBrand:github",
           },
         ],
@@ -206,12 +206,12 @@ export default {
         buttons: [
           {
             text: "Visit",
-            link: "https://movie-app-isyuricunha.netlify.app/",
+            link: "https://movie-app-eggsy.netlify.app/",
             icon: "IconLink",
           },
           {
             text: "GitHub",
-            link: "https://github.com/isyuricunha/movie-app",
+            link: "https://github.com/eggsy/movie-app",
             icon: "IconBrand:github",
           },
         ],
@@ -229,21 +229,21 @@ export default {
           },
           {
             text: "GitHub",
-            link: "https://github.com/isyuricunha/marmaris-palace-website",
+            link: "https://github.com/eggsy/marmaris-palace-website",
             icon: "IconBrand:github",
           },
         ],
       },
       {
         note: "You are here!",
-        name: "yuricunha.com",
+        name: "eggsy.xyz",
         description:
           "My personal website, built with Nuxt.js, Windi CSS and Firebase!",
         image: "https://i.imgur.com/J4bqPcs.png",
         buttons: [
           {
             text: "GitHub",
-            link: "https://github.com/isyuricunha/website",
+            link: "https://github.com/eggsy/website",
             icon: "IconBrand:github",
           },
         ],

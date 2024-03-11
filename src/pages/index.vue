@@ -89,7 +89,7 @@ export default Vue.extend({
           },
           {
             title: "EGGSY's Discord Bot",
-            url: "https://top.gg/bot/isyuricunha",
+            url: "https://top.gg/bot/eggsy",
             position: "Creator, Developer and Maintainer",
             date: "2017-2019",
           },
@@ -254,13 +254,15 @@ export default Vue.extend({
               class="font-semibold text-center text-lg md:(text-xl text-left) text-black/50 dark:text-white/50"
             >
               Hi, I am
-              <span class="text-black/90 dark:text-white/90">Yuri Cunha</span>
+              <span class="text-black/90 dark:text-white/90"
+                >Abdulbaki Dursun</span
+              >
             </h1>
 
             <h1
               class="font-semibold text-center text-4xl md:(text-6xl text-left) text-black/90 leading-normal dark:text-white/90"
             >
-              Database Administrator
+              Full-stack web developer
             </h1>
           </div>
 
@@ -287,7 +289,7 @@ export default Vue.extend({
 
       <div class="rounded-full mx-auto mb-4 md:mb-0">
         <SmartImage
-          src="/assets/images/me-database-room.png"
+          src="/assets/images/picture.png"
           class="rounded-full h-50 w-50"
         />
       </div>

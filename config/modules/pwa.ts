@@ -1,7 +1,7 @@
 export default {
   manifest: {
-    name: "yuricunha.com",
-    short_name: "yuricunha.com",
+    name: "eggsy.xyz",
+    short_name: "eggsy.xyz",
     theme_color: "#f56565",
     lang: "en",
   },

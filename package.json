@@ -2,32 +2,32 @@
   "private": true,
   "license": "MIT",
   "version": "6.0.0",
-  "homepage": "https://yuricunha.com",
-  "readme": "https://github.com/isyuricunha/website#readme",
+  "homepage": "https://eggsy.xyz",
+  "readme": "https://github.com/eggsy/website#readme",
   "engines": {
     "node": ">=16.9"
   },
   "author": {
-    "name": "Yuri Cunha",
-    "email": "me@yuricunha.com",
-    "url": "https://yuricunha.com"
+    "name": "Abdulbaki Dursun",
+    "email": "eggsydev@gmail.com",
+    "url": "https://eggsy.xyz"
   },
   "bugs": {
-    "email": "me@yuricunha.com",
-    "url": "https://github.com/isyuricunha/website/issues"
+    "email": "eggsydev@gmail.com",
+    "url": "https://github.com/eggsy/website/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/isyuricunha/website.git"
+    "url": "https://github.com/eggsy/website.git"
   },
   "funding": [
     {
       "type": "individual",
-      "url": "https://yuricunha.com/donate"
+      "url": "https://eggsy.xyz/donate"
     },
     {
       "type": "github",
-      "url": "https://github.com/sponsors/isyuricunha"
+      "url": "https://github.com/sponsors/eggsy"
     }
   ],
   "scripts": {

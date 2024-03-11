@@ -24,7 +24,7 @@ const handler: Handler = async () => {
     // Origin for CORS
     const origin =
       process.env.NODE_ENV === "production"
-        ? "https://yuricunha.com"
+        ? "https://eggsy.xyz"
         : "http://localhost:3000"
 
     // Map track function

@@ -46,7 +46,7 @@ export default Vue.extend({
   fetchOnServer: false,
   async fetch() {
     const { data } = await this.$axios.get(
-      "https://raw.githubusercontent.com/isyuricunha/.github/main/sponsors.json"
+      "https://raw.githubusercontent.com/eggsy/.github/main/sponsors.json"
     )
 
     this.sponsors = data
@@ -62,12 +62,12 @@ export default Vue.extend({
         title,
         description,
         keywords: "donate",
-        url: "https://yuricunha.com/donate",
+        url: "https://eggsy.xyz/donate",
       }),
       link: [
         {
           rel: "canonical",
-          href: "https://yuricunha.com/donate",
+          href: "https://eggsy.xyz/donate",
         },
       ],
     }
@@ -105,7 +105,7 @@ export default Vue.extend({
     title="Donate"
     :description="[
       'If you like my projects and/or what I do and you want to contribute, make me happy, you can donate to me with the information on this page! Thank you ♥',
-      `P.S. Use 'Yuri Cunha' as the name of your transactions.`,
+      `P.S. Use 'Abdulbaki Dursun' as the name of your transactions.`,
     ]"
     class="space-y-12"
   >

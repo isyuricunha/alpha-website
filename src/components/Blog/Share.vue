@@ -31,9 +31,7 @@ export default Vue.extend({
         if (!el) {
           el = document.createElement("input")
 
-          el.value = this.path
-            ? `https://yuricunha.com${this.path}`
-            : location.href
+          el.value = this.path ? `https://eggsy.xyz${this.path}` : location.href
           document.body.appendChild(el)
 
           el.select()
@@ -51,7 +49,7 @@ export default Vue.extend({
 
         switch (option) {
           case "twitter":
-            url = `https://twitter.com/intent/tweet?via=isyuricunha&text=${encodeURIComponent(
+            url = `https://twitter.com/intent/tweet?via=eggsydev&text=${encodeURIComponent(
               this.title + "\n" + location.href
             )}`
             break
@@ -100,7 +98,7 @@ export default Vue.extend({
     <input
       ref="share-url"
       readonly
-      :value="`https://yuricunha.com${path}`"
+      :value="`https://eggsy.xyz${path}`"
       class="hidden"
     />
   </div>
