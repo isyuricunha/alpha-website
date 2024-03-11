@@ -217,7 +217,7 @@ export default Vue.extend({
       <Disqus
         v-if="!$config.isDev"
         :title="post.title"
-        :url="`https://eggsy.xyz/blog/${post.slug}`"
+        :url="`https://alpha.yuricunha.com/blog/${post.slug}`"
         :identifier="`/blog/${post.slug}`"
         :slug="post.slug"
         lang="tr"
