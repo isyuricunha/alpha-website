@@ -5,7 +5,7 @@ import Vue from "vue"
 import type {
   LanyardData,
   Activity,
-} from "@isyuricunha/vue-lanyard/@types/lanyard"
+} from "@eggsydev/vue-lanyard/@types/lanyard"
 
 export default Vue.extend({
   data() {
@@ -100,7 +100,7 @@ export default Vue.extend({
     this.socket?.close()
   },
   async mounted() {
-    // Connect to Lanyard Socket API, send heartbeat every 30 seconds and replace the Vue data value with the message using @isyuricunha/vue-lanyard module
+    // Connect to Lanyard Socket API, send heartbeat every 30 seconds and replace the Vue data value with the message using @eggsydev/vue-lanyard module
     this.socket = (await this.$lanyard({
       userId: "162969778699501569",
       socket: true,

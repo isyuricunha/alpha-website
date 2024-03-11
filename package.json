@@ -37,7 +37,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@isyuricunha/vue-lanyard": "^1.1.3",
+    "@eggsydev/vue-lanyard": "^1.1.3",
     "@netlify/functions": "^1.4.0",
     "@nuxt/content": "1.15.1",
     "@nuxtjs/axios": "^5.13.6",
