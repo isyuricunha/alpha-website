@@ -82,7 +82,7 @@ const Head: NuxtOptionsHead = {
     {
       rel: "icon",
       type: "image/x-icon",
-      href: "https://alpha.yuricunha.com/assets/icons/icon.ico",
+      href: "https://alpha.yuricunha.com/assets/icons/yuricunha.ico",
     },
     {
       rel: "search",
