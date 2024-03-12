@@ -22,10 +22,14 @@ export default Vue.extend({
   },
   head() {
     let string = "Yuri Cunha"
-    if (this.routeIsBlog) string = "yuricunha.com - blog"
+    let titleTemplate = `${string}`
+
+    if (this.$route.path !== "/") {
+      titleTemplate = `%s / ${string}`
+    }
 
     return {
-      titleTemplate: `%s / ${string}`,
+      titleTemplate: titleTemplate,
       htmlAttrs: {
         class: `min-h-screen ${this.$colorMode.value}`,
       },
@@ -38,6 +42,7 @@ export default Vue.extend({
       ],
     }
   },
+
   computed: {
     menuActions() {
       return [
