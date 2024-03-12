@@ -108,7 +108,7 @@ export default {
         buttons: [
           {
             text: "GitHub",
-            link: "https://github.com/eggsy/discord-steam-verification",
+            link: "https://github.com/isyuricunha/discord-steam-verification",
             icon: "IconBrand:github",
           },
         ],
@@ -126,7 +126,7 @@ export default {
           },
           {
             text: "GitHub",
-            link: "https://github.com/eggsy/unblock-please",
+            link: "https://github.com/isyuricunha/unblock-please",
             icon: "IconBrand:github",
           },
         ],
@@ -144,7 +144,7 @@ export default {
           },
           {
             text: "GitHub",
-            link: "https://github.com/eggsy/lanyard-visualizer",
+            link: "https://github.com/isyuricunha/lanyard-visualizer",
             icon: "IconBrand:github",
           },
         ],
@@ -162,7 +162,7 @@ export default {
           },
           {
             text: "GitHub",
-            link: "https://github.com/eggsy/lanyard-web",
+            link: "https://github.com/isyuricunha/lanyard-web",
             icon: "IconBrand:github",
           },
         ],
@@ -193,7 +193,7 @@ export default {
           },
           {
             text: "GitHub (v2)",
-            link: "https://github.com/eggsy/find-associative-words/tree/socket",
+            link: "https://github.com/isyuricunha/find-associative-words/tree/socket",
             icon: "IconBrand:github",
           },
         ],
@@ -211,7 +211,7 @@ export default {
           },
           {
             text: "GitHub",
-            link: "https://github.com/eggsy/movie-app",
+            link: "https://github.com/isyuricunha/movie-app",
             icon: "IconBrand:github",
           },
         ],
@@ -229,7 +229,7 @@ export default {
           },
           {
             text: "GitHub",
-            link: "https://github.com/eggsy/marmaris-palace-website",
+            link: "https://github.com/isyuricunha/marmaris-palace-website",
             icon: "IconBrand:github",
           },
         ],
@@ -243,7 +243,7 @@ export default {
         buttons: [
           {
             text: "GitHub",
-            link: "https://github.com/eggsy/website",
+            link: "https://github.com/isyuricunha/website",
             icon: "IconBrand:github",
           },
         ],
