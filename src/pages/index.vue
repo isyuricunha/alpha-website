@@ -88,7 +88,7 @@ export default Vue.extend({
             isHidden: true,
           },
           {
-            title: "EGGSY's Discord Bot",
+            title: "Yuri Cunha Discord Bot",
             url: "https://top.gg/bot/eggsy",
             position: "Creator, Developer and Maintainer",
             date: "2017-2019",
@@ -225,7 +225,7 @@ export default Vue.extend({
     }
   },
   head: {
-    title: "Home",
+    title: "Yuri Cunha",
   },
   methods: {
     async scrollToSection(id: string) {

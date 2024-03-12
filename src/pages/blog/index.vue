@@ -26,9 +26,9 @@ export default Vue.extend({
     this.posts = posts
   },
   head() {
-    const title = "EGGSY's Blog"
+    const title = "Yuri Cunha Blog"
     const description =
-      "EGGSY'nin günlük hayattan, tecrübelerinden bahsettiği, göstermek veya anlatmak istediği şeyleri daha düzenli ve profesyonel bir şekilde tuttuğu blog sayfası."
+      "I'm the DBA that'll make you laugh, cry, and learn about technology."
 
     return {
       title: "Blog",

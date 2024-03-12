@@ -10,9 +10,9 @@ const Feed = () => {
 
   const createFeedArticles = async function (feed: any) {
     feed.options = {
-      title: "EGGSY's Blog",
+      title: "Yuri Cunha Blog",
       description:
-        "EGGSY'nin günlük hayattan, tecrübelerinden bahsettiği, göstermek veya anlatmak istediği şeyleri daha düzenli ve profesyonel bir şekilde tuttuğu blog sayfası.",
+        "I'm the DBA that'll make you laugh, cry, and learn about technology.",
       link: baseUrlArticles,
     }
 
