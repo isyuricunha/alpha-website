@@ -108,7 +108,7 @@ export default Vue.extend({
       link: [
         {
           rel: "canonical",
-          href: "https://yuricunha.com/projects/premid/mdcreator",
+          href: "https://alpha.yuricunha.com/projects/premid/mdcreator",
         },
       ],
       meta: this.$prepareMeta({
@@ -116,7 +116,7 @@ export default Vue.extend({
         description,
         image,
         keywords: "premid, custom, status",
-        url: "https://yuricunha.com/projects/premid/mdcreator",
+        url: "https://alpha.yuricunha.com/projects/premid/mdcreator",
       }),
     }
   },

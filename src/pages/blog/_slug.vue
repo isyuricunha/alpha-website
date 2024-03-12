@@ -57,7 +57,7 @@ export default Vue.extend({
       post.description || "EGGSY'nin blogunda bu yazıyı okumaya davet edildin."
 
     const tags = getTags?.join(", ") || title
-    const href = `https://yuricunha.com${this.$route?.path}`
+    const href = `https://alpha.yuricunha.com${this.$route?.path}`
     const image = `/og-images/${post.slug}.png`
 
     return {

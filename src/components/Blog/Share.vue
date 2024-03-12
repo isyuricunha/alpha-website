@@ -32,7 +32,7 @@ export default Vue.extend({
           el = document.createElement("input")
 
           el.value = this.path
-            ? `https://yuricunha.com${this.path}`
+            ? `https://alpha.yuricunha.com${this.path}`
             : location.href
           document.body.appendChild(el)
 
@@ -100,7 +100,7 @@ export default Vue.extend({
     <input
       ref="share-url"
       readonly
-      :value="`https://yuricunha.com${path}`"
+      :value="`https://alpha.yuricunha.com${path}`"
       class="hidden"
     />
   </div>

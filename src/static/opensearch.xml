@@ -3,6 +3,6 @@
     <ShortName>Yuri Cunha Blog</ShortName>
     <Description>EGGSY'nin Blog'unda ara!</Description>
     <InputEncoding>UTF-8</InputEncoding>
-    <Image height="16" width="16" type="image/x-icon">https://yuricunha.com/assets/icons/yuricunha.ico</Image>
-    <Url type="text/html" method="get" template="https://yuricunha.com/blog/?q={searchTerms}" />
+    <Image height="16" width="16" type="image/x-icon">https://alpha.yuricunha.com/assets/icons/yuricunha.ico</Image>
+    <Url type="text/html" method="get" template="https://alpha.yuricunha.com/blog/?q={searchTerms}" />
 </OpenSearchDescription>

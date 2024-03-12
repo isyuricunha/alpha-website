@@ -20,7 +20,7 @@ Website features many custom built systems, integrations and pages!
 - ✅ Fully static markdown-driven blog with Nuxt Content.
 - ✅ Firebase integration.
 - ✅ Real-time Discord profile data using [Lanyard API](https://github.com/Phineas/lanyard/).
-- ✅ Last.fm API to display top tracks and recently played songs－[example](https://yuricunha.com/me/songs).
+- ✅ Last.fm API to display top tracks and recently played songs－[example](https://alpha.yuricunha.com/me/songs).
 - ✅ Written in TypeScript.
 - ✅ Tons of handmade custom components.
 

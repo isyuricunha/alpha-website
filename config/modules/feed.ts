@@ -1,5 +1,5 @@
 const Feed = () => {
-  const baseUrlArticles = "https://yuricunha.com/blog"
+  const baseUrlArticles = "https://alpha.yuricunha.com/blog"
 
   const feedFormats = {
     rss: { type: "rss2", file: "rss.xml" },
@@ -23,7 +23,7 @@ const Feed = () => {
 
       const hostName =
         process.env.NODE_ENV === "production"
-          ? "https://yuricunha.com"
+          ? "https://alpha.yuricunha.com"
           : "http://localhost:3000"
 
       const postImagesPath = `${hostName}/assets/images/posts`

@@ -62,12 +62,12 @@ export default Vue.extend({
         title,
         description,
         keywords: "donate",
-        url: "https://yuricunha.com/donate",
+        url: "https://alpha.yuricunha.com/donate",
       }),
       link: [
         {
           rel: "canonical",
-          href: "https://yuricunha.com/donate",
+          href: "https://alpha.yuricunha.com/donate",
         },
       ],
     }

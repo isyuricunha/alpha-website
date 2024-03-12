@@ -2,7 +2,7 @@
   "private": true,
   "license": "MIT",
   "version": "6.0.0",
-  "homepage": "https://yuricunha.com",
+  "homepage": "https://alpha.yuricunha.com",
   "readme": "https://github.com/isyuricunha/website#readme",
   "engines": {
     "node": ">=16.9"
@@ -10,7 +10,7 @@
   "author": {
     "name": "Yuri Cunha",
     "email": "me@yuricunha.com",
-    "url": "https://yuricunha.com"
+    "url": "https://alpha.yuricunha.com"
   },
   "bugs": {
     "email": "me@yuricunha.com",
@@ -23,7 +23,7 @@
   "funding": [
     {
       "type": "individual",
-      "url": "https://yuricunha.com/donate"
+      "url": "https://alpha.yuricunha.com/donate"
     },
     {
       "type": "github",
