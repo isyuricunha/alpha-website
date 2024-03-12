@@ -62,7 +62,7 @@ Kayıt bittiğinde saatimiz 22.40 civarını gösteriyordu. Ertesi gün teslim e
 
 Bu kesilmiş 6 dakikalık kaydın içerisinde de kesmeler yapacak ve parçalara ayıracaktım. Yaklaşık 30 dakika kadar süren uğraş sonucunda 6 dakikalık kaydı 16 ayrı parçaya bölmüş ve hepsine ayrı isimler takmıştım. Bu isimler, Anchor'da Podcast'imiz oynatılırken ekranda çıkıyor ve dinleyiciye, dinlediği kısım hakkında bilgi veriyordu. Girişe ve araya da birkaç ses efekti atmıştım.
 
-İnce ayrıntılara önem verdiğim gibi, burada da elimden geldiğince ödevimize değer vermiş ve tüm detayları elle girmiştim. [Figma](https://www.figma.com/?utm_source=eggsy.xyz) üzerinden Podcast'imiz ve bölümleri için özel kapak fotoğrafları tasarlamış, bunları yüklemiş ve bölümümüzü yayınlamıştım. Saat tam olarak 00.00'ı gösterdiğinde Podcast'imizin bağlantısını grubuma atıp arkadaşlarıma fikirlerini sormuştum.
+İnce ayrıntılara önem verdiğim gibi, burada da elimden geldiğince ödevimize değer vermiş ve tüm detayları elle girmiştim. [Figma](https://www.figma.com/?utm_source=yuricunha.com) üzerinden Podcast'imiz ve bölümleri için özel kapak fotoğrafları tasarlamış, bunları yüklemiş ve bölümümüzü yayınlamıştım. Saat tam olarak 00.00'ı gösterdiğinde Podcast'imizin bağlantısını grubuma atıp arkadaşlarıma fikirlerini sormuştum.
 
 ### Fikir Farklılıkları, Üstesinden Gelmemiz
 

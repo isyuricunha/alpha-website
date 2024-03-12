@@ -1,4 +1,4 @@
-<h1 align="center">eggsy.xyz Changelog</h1>
+<h1 align="center">yuricunha.com Changelog</h1>
 
 ## 6.0.0
 
@@ -26,4 +26,4 @@ I've moved from Tailwind to WindiCSS for its features, gold-class support for Vu
 
 ## Initial Release
 
-Check out the [first look of this website](https://old.eggsy.xyz) by yourself and see how much I improved!
+Check out the [first look of this website](https://old.yuricunha.com) by yourself and see how much I improved!

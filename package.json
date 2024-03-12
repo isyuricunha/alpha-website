@@ -2,7 +2,7 @@
   "private": true,
   "license": "MIT",
   "version": "6.0.0",
-  "homepage": "https://eggsy.xyz",
+  "homepage": "https://yuricunha.com",
   "readme": "https://github.com/eggsy/website#readme",
   "engines": {
     "node": ">=16.9"
@@ -10,7 +10,7 @@
   "author": {
     "name": "Abdulbaki Dursun",
     "email": "eggsydev@gmail.com",
-    "url": "https://eggsy.xyz"
+    "url": "https://yuricunha.com"
   },
   "bugs": {
     "email": "eggsydev@gmail.com",
