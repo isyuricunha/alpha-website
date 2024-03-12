@@ -3,7 +3,7 @@ import { NuxtOptionsHead } from "@nuxt/types/config/head"
 /* Define constants */
 const image = "https://alpha.yuricunha.com/icon.png"
 const description =
-  "Young JavaScript developer from Turkey, interested in languages, gaming, and programming, trying to improve his JavaScript skills!"
+  "Not just a DBA, but a data craftsman building digital legacies."
 
 const Head: NuxtOptionsHead = {
   title: "yuricunha.com",
@@ -82,13 +82,13 @@ const Head: NuxtOptionsHead = {
     {
       rel: "icon",
       type: "image/x-icon",
-      href: "https://yuricunha.com/assets/icons/icon.ico",
+      href: "https://alpha.yuricunha.com/assets/icons/icon.ico",
     },
     {
       rel: "search",
       type: "application/opensearchdescription+xml",
-      title: "EGGSY's Blog",
-      href: "https://yuricunha.com/opensearch.xml",
+      title: "Yuri Cunha Blog",
+      href: "https://alpha.yuricunha.com/opensearch.xml",
     },
   ],
 }
