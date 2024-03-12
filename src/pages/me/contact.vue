@@ -35,6 +35,7 @@ export default Vue.extend({
       const titles = {
         discord: "Join my Discord server!",
         twitter: "Follow me on Twitter!",
+        x: "Follow me on X!",
         github: "Follow me on GitHub!",
         instagram: "Follow me on Instagram!",
         trello: "View my Trello board!",

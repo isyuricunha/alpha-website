@@ -10,6 +10,7 @@ export interface Social {
   instagram: string
   trello: string
   email: string
+  x: string
 }
 
 declare module "@nuxt/types/config/runtime" {

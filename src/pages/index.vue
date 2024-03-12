@@ -180,7 +180,7 @@ export default Vue.extend({
         {
           title: "Development",
           items: [
-            "TypeScript",
+            "SQL",
             "Vue.js",
             "React.js",
             "HTML5",
@@ -254,9 +254,7 @@ export default Vue.extend({
               class="font-semibold text-center text-lg md:(text-xl text-left) text-black/50 dark:text-white/50"
             >
               Hi, I am
-              <span class="text-black/90 dark:text-white/90"
-                >Yuri Cunha</span
-              >
+              <span class="text-black/90 dark:text-white/90">Yuri Cunha</span>
             </h1>
 
             <h1
@@ -270,7 +268,7 @@ export default Vue.extend({
             class="flex items-center justify-center md:justify-start gap-x-3 gap-y-2 flex-wrap"
           >
             <Button
-              v-for="item in ['TypeScript', 'Vue.js', 'React.js']"
+              v-for="item in ['SQL', 'Vue.js', 'React.js']"
               :key="item"
               class="inline-block"
             >

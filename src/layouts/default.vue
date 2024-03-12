@@ -138,7 +138,7 @@ export default Vue.extend({
           text: "Twitter",
           icon: "IconBrand:twitter",
           action: () => {
-            window.open(this.$config.social.twitter, "_blank")?.focus()
+            window.open(this.$config.social.x, "_blank")?.focus()
           },
         },
 
