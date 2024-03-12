@@ -24,12 +24,12 @@ const Head: NuxtOptionsHead = {
     {
       hid: "twitter:site",
       name: "twitter:site",
-      content: "@eggsydev",
+      content: "@isyuricunha",
     },
     {
       hid: "twitter:creator",
       name: "twitter:creator",
-      content: "@eggsydev",
+      content: "@isyuricunha",
     },
     {
       hid: "twitter:title",
