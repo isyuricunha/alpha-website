@@ -6,7 +6,7 @@ const description =
   "Not just a DBA, but a data craftsman building digital legacies."
 
 const Head: NuxtOptionsHead = {
-  title: "yuricunha.com",
+  title: "Yuri Cunha",
   meta: [
     { charset: "utf-8" },
     { name: "viewport", content: "width=device-width, initial-scale=1" },
