@@ -9,6 +9,6 @@ export default {
     email: "eggsydev@gmail.com",
   },
   sponsor: {
-    github: "https://github.com/sponsors/eggsy",
+    github: "https://github.com/sponsors/isyuricunha",
   },
 }

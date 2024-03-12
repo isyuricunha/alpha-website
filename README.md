@@ -59,7 +59,7 @@ If you don't want to take the additional steps installing and configuring a Fire
 ### 💖 Sponsors
 
 <p align="center">
-  <a href="https://github.com/sponsors/eggsy">
+  <a href="https://github.com/sponsors/isyuricunha">
     <img src='https://cdn.jsdelivr.net/gh/eggsy/.github/sponsors.svg'/>
   </a>
 </p>
