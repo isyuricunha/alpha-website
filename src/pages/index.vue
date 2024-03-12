@@ -153,13 +153,13 @@ export default Vue.extend({
           {
             title: "Blog",
             description:
-              "My Turkish stories about real-life, programming, development and more!",
+              "I'm the DBA that'll make you laugh, cry, and learn about technology.",
             href: "/blog",
           },
           {
             title: "Projects",
             description:
-              "My projects and contributions to the open-source community.",
+              "In my spare time, I like to play god with data. It's like a board game, but with more lines of code.",
             href: "/projects",
           },
           {
