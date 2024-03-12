@@ -262,7 +262,7 @@ export default Vue.extend({
             <h1
               class="font-semibold text-center text-4xl md:(text-6xl text-left) text-black/90 leading-normal dark:text-white/90"
             >
-              Full-stack web developer
+              Database Administrator
             </h1>
           </div>
 
