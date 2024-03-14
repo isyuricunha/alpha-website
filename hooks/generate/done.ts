@@ -9,7 +9,7 @@ import { generateImage } from "../../scripts/generateOgImage"
 import getReadingTime from "../../src/plugins/Utils/getReadingTime"
 
 // Turkish INTL
-const formatter = new Intl.DateTimeFormat("tr-TR", {
+const formatter = new Intl.DateTimeFormat("en-US", {
   year: "numeric",
   month: "numeric",
   day: "numeric",
