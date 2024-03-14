@@ -12,7 +12,7 @@ declare module "vue/types/vue" {
       { title, description, url, image, keywords }: PrepareMetaProps,
       rest?: any[]
     ): Meta[]
-    $getTurkeyTime(): Date
+    $getBrazilTime(): Date
     $applyMediumZoom(selector?: string): void
   }
 }
@@ -26,7 +26,7 @@ declare module "@nuxt/types" {
       { title, description, url, image, keywords }: PrepareMetaProps,
       rest?: any[]
     ): Meta[]
-    $getTurkeyTime(): Date
+    $getBrazilTime(): Date
     $applyMediumZoom(selector: string): void
   }
 
@@ -38,7 +38,7 @@ declare module "@nuxt/types" {
       { title, description, url, image, keywords }: PrepareMetaProps,
       rest?: any[]
     ): Meta[]
-    $getTurkeyTime(): Date
+    $getBrazilTime(): Date
     $applyMediumZoom(selector: string): void
   }
 }

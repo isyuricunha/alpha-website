@@ -3,10 +3,10 @@
  * every package I tried doesn't really return the correct date in Turkey
  * so I made a worker that returns the correct date.
  */
-export default function getTurkeyTime(): Date {
+export default function getBrazilTime(): Date {
   return new Date(
     new Date().toLocaleString("en-US", {
-      timeZone: "Europe/Istanbul",
+      timeZone: "America/Sao_Paulo",
     })
   )
 }

@@ -18,7 +18,7 @@ export interface Song {
 /* Declare modules */
 
 /* Plugin */
-const Firebase: Plugin = ({ $fire, $getTurkeyTime }, inject) => {
+const Firebase: Plugin = ({ $fire, $getBrazilTime }, inject) => {
   /**
    * Fetch the daily song from Firebase.
    * @param {number} [limit=1] The limit of the values to return. If none present, will return one URL in string format.
@@ -30,7 +30,7 @@ const Firebase: Plugin = ({ $fire, $getTurkeyTime }, inject) => {
     const docs: Song[] = []
 
     await ref
-      .where("date", "<=", $getTurkeyTime())
+      .where("date", "<=", $getBrazilTime())
       .orderBy("date", "desc")
       .limit(limit)
       .get()
