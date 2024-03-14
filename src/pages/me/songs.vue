@@ -45,7 +45,7 @@ export default Vue.extend({
     const url =
       process.env.NODE_ENV === "production"
         ? "https://alpha-website-yuricunha.netlify.app/.netlify/functions/getLastFmSongs"
-        : "http://alpha.yuricunha.com/.netlify/functions/getLastFmSongs"
+        : "http://alpha.yuricunha.com/api/getLastFmSongs"
 
     const { data: songs }: { data: LastFmResponse } = await this.$axios(url)
 
