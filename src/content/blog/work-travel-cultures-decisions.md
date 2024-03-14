@@ -9,20 +9,6 @@ tags:
 createdAt: 2024-03-03T18:20:00.449Z
 ---
 
-<Image
-  alt={"Exploring work, travel, cultural encounters, and personal decisions."}
-  src={
-    '/assets/images/blog/work-travel-cultures-decisions/work-travel-cultures-decisions.png'
-  }
-  width={1905 / 2}
-  height={957 / 2}
-  layout="responsive"
-  blurDataURL={
-    'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIklEQVQImWNgYBDnFZCxsfc0tvJkCI/O+vP/f0tdhZK8CgBLPAfARKUieAAAAABJRU5ErkJggg=='
-  }
-  placeholder="blur"
-/>
-
 This week I had several ideas about what to post, but none of them seemed reasonable enough to share here, and as you know, this blog doesn't have a posting "schedule"... I post when I want to.
 
 As some people know, I design, set up, and maintain databases, which is just my main job. There's also the fact that I set up servers, from hardware to cabling and configurations - and there are smaller gigs like freelance website development and volunteering as a math and artificial intelligence teacher for children. So, I end up traveling for various jobs, and currently, I've been to Canada, Japan, China, the United States, and France. Sometimes, during these trips, I end up extending my stay in the country (nothing that would expire my visa).
