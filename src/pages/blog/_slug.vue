@@ -54,7 +54,7 @@ export default Vue.extend({
 
     const title = post.title
     const description =
-      post.description || "EGGSY'nin blogunda bu yazıyı okumaya davet edildin."
+      post.description || "You're invited to read this post on Yuri Cunha blog."
 
     const tags = getTags?.join(", ") || title
     const href = `https://alpha.yuricunha.com${this.$route?.path}`
@@ -76,7 +76,7 @@ export default Vue.extend({
           title,
           description,
           image,
-          keywords: `${tags}, eggsy blog, blog, teknoloji, vue, yazılım, discord, eggsys`,
+          keywords: `${tags}, yuri cunha blog, blog, technology, database, day-to-day, life, software, discord, isyuricunha`,
           url: href,
         },
         [
@@ -90,7 +90,7 @@ export default Vue.extend({
           },
           {
             name: "twitter:label1",
-            content: "Tarih",
+            content: "History",
           },
           {
             name: "twitter:data1",
@@ -98,11 +98,11 @@ export default Vue.extend({
           },
           {
             name: "twitter:label2",
-            content: "Okuma Süresi",
+            content: "Reading Time",
           },
           {
             name: "twitter:data2",
-            content: `${this.getReadingTime} dakika`,
+            content: `${this.$getReadingTime} min`,
           },
         ]
       ),
@@ -168,7 +168,7 @@ export default Vue.extend({
 
               <div class="flex items-center space-x-2">
                 <IconEye class="w-4 h-4" />
-                <span>{{ getReadingTime }} dakika okuma</span>
+                <span>{{ getReadingTime }} min read</span>
               </div>
             </div>
 
@@ -227,7 +227,7 @@ export default Vue.extend({
       <div class="mt-16 space-y-10">
         <div v-if="getRelatedPosts.length > 0" class="space-y-2">
           <h3 class="text-sm dark:text-white/30 text-black/50">
-            Benzer Gönderiler
+            Similar Posts
           </h3>
 
           <div v-if="getRelatedPosts.length" class="grid gap-4 sm:grid-cols-2">
@@ -245,7 +245,7 @@ export default Vue.extend({
 
         <div class="space-y-2">
           <h3 class="text-sm dark:text-white/30 text-black/50">
-            Okumaya Devam Et
+            Continue Reading
           </h3>
 
           <BlogPrevNext :current-slug="post.slug" />
