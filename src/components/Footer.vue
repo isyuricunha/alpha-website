@@ -23,7 +23,7 @@ export default Vue.extend({
     <div class="responsive-screen">
       <div class="space-y-4 text-center sm:(space-y-0 space-x-6 text-left)">
         <SmartLink
-          href="https://github.com/isyuricunha/website"
+          href="#"
           class="text-center border-b border-transparent hover:border-black/10 dark:hover:border-white/10 transition-colors"
           blank
         >

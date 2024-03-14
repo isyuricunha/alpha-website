@@ -8,7 +8,7 @@ export default async function () {
   }
 
   return {
-    hostname: "https://alpha.yuricunha.com",
+    hostname: "https://yuricunha.com",
     gzip: true,
     routes,
   }

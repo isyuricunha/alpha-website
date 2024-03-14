@@ -42,7 +42,7 @@ export default Vue.extend({
   },
   fetchOnServer: false,
   async fetch() {
-    const url = "https://alpha.yuricunha.com/api/getLastFmSongs"
+    const url = "https://yuricunha.com/api/getLastFmSongs"
 
     const { data: songs }: { data: LastFmResponse } = await this.$axios(url)
 
