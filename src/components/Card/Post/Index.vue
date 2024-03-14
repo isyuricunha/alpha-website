@@ -49,7 +49,7 @@ export default Vue.extend({
         slug: this.post.slug || "",
         special: this.post.special || false,
         tag: this.post?.tags?.[0] || "",
-        date: this.post?.createdAt,
+        date: this.post?.createdAt ? new Date(this.post.createdAt) : undefined,
         image,
       }
     },

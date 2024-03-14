@@ -24,6 +24,8 @@ export interface Toc {
 }
 
 export interface Post {
+  special: boolean
+  image: string
   header?: string
   slug?: string
   description?: string

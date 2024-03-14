@@ -20,7 +20,7 @@ export default Vue.extend({
     const post = (await this.$content(
       "blog",
       this.$route.params.slug
-    ).fetch()) as Post
+    ).fetch()) as unknown as Post
 
     if (!post) {
       this.$router.push("/blog")
@@ -48,9 +48,7 @@ export default Vue.extend({
   },
   head() {
     const post = this.post
-    const { getTags } = this as {
-      getTags: string[]
-    }
+    const { getTags } = this as { getTags: string[] }
 
     const title = post.title
     const description =
