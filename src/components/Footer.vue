@@ -9,7 +9,7 @@ export default Vue.extend({
      */
     getLocalizedNotice(): string {
       if (this.$route.name?.includes("blog"))
-        return "Bu site GitHub üzerinde açık kaynak olarak paylaşılmıştır."
+        return "This website is open-source on GitHub"
       else return "This website is open-source on GitHub"
     },
   },
