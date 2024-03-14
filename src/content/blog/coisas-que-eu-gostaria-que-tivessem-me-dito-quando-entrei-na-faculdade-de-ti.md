@@ -1,7 +1,7 @@
 ---
 title: Coisas que eu gostaria que tivessem me dito quando entrei na faculdade de TI
 description: TI é tão vasto quanto medicina
-header: https://alpha.yuricunha.com/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fcoisas-que-eu-gostaria-que-tivessem-me-dito-quando-entrei-na-faculdade-de-ti%2Fbanner.png&w=1920&q=75
+header: https://yuricunha.com/_next/image?url=%2Fstatic%2Fimages%2Fblog%2Fcoisas-que-eu-gostaria-que-tivessem-me-dito-quando-entrei-na-faculdade-de-ti%2Fbanner.png&w=1920&q=75
 tags:
   - Faculdade
   - Estudo
