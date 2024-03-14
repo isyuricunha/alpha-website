@@ -1,7 +1,7 @@
 ---
 title: Disconnected
 description: Chillin' offline, dodging memes, and loving real-life adventures!
-header: '/src/static/assets/images/blog/disconnected/disconnected.jpg'
+header: '/assets/images/blog/disconnected/disconnected.jpg'
 tags:
   - digital-detox
   - offline-adventures

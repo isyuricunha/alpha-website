@@ -1,7 +1,7 @@
 ---
 title: The Unconventional Bonds of Friendship and Solitude
 description: My friends. My mind. Myself.
-header: '/src/static/assets/images/blog/the-unconventional-bonds-of-friendship-and-solitude/loneliness-crowd.jpg'
+header: '/assets/images/blog/the-unconventional-bonds-of-friendship-and-solitude/loneliness-crowd.jpg'
 tags:
   - Solitude
   - Friendship

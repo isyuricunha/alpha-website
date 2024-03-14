@@ -1,7 +1,7 @@
 ---
 title: "Becoming a junior front-end developer: A comprehensive guide with tips, codes, and resources"
 description: This article is your ultimate guide to becoming a Junior Front-End Developer. With tips, resources, and step-by-step guidance, this comprehensive guide will help you achieve your career goals and become a skilled Front-End Developer.
-header: '/src/static/assets/images/blog/junior-front-end/front-end-roadmap.jpg'
+header: '/assets/images/blog/junior-front-end/front-end-roadmap.jpg'
 tags:
   - roadmap
   - technology

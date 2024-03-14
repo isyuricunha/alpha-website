@@ -1,7 +1,7 @@
 ---
 title: How to plan a productive day
 description: The article emphasizes the importance of planning and organization to achieve productivity and success in both work and personal life. It also provides references to related resources for further reading.
-header: '/src/static/assets/images/blog/how-privacy-has-become-increasingly-important/privacy.png'
+header: '/assets/images/blog/how-privacy-has-become-increasingly-important/privacy.png'
 tags:
   - productivity tips
   - planning

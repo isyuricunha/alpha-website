@@ -1,7 +1,7 @@
 ---
 title: The Latest Trends in Artificial Intelligence and Their Impact on Business
 description: The latest trends in artificial intelligence are shaping the future of businesses. Discover how this revolutionary technology is impacting different sectors and learn how your company can benefit from it. Read more about the latest trends in artificial intelligence and its impact on businesses in this informative article.
-header: '/src/static/assets/images/blog/artificial-intelligence/artificial-intelligence.jpg'
+header: '/assets/images/blog/artificial-intelligence/artificial-intelligence.jpg'
 tags:
   - Artificial Intelligence
   - Business

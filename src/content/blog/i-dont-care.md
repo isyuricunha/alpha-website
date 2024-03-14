@@ -1,7 +1,7 @@
 ---
 title: I Don't Care
 description: I'm not a mean person. I don't go out of my way to hurt people's feelings. But I also don't care about most people or most things that don't involve me.
-header: '/src/static/assets/images/blog/i-dont-care/idontcare.jpg'
+header: '/assets/images/blog/i-dont-care/idontcare.jpg'
 tags:
   - indifference
   - self-discovery
@@ -108,4 +108,4 @@ If you struggle with indifference:
 - Be yourself, not who others want you to be.
 - Don't waste time and energy on what doesn't matter.
 
-![Image of a person sitting alone in a park](https://yuricunha.com/src/static/assets/images/blog/i-dont-care/lonely-in-park.jpg)
+![Image of a person sitting alone in a park](https://yuricunha.com/assets/images/blog/i-dont-care/lonely-in-park.jpg)

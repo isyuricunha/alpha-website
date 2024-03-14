@@ -1,7 +1,7 @@
 ---
 title: Sometimes Humans Just Need to Sit in One Place and, Like, Hurt
 description: Reflecting on life's twists, from betrayal to forging connections. Embracing pain, trust's evolution, and adulting challenges. Candidly exploring personal growth, writing, and venturing into coaching with a resilient spirit.
-header: '/src/static/assets/images/blog/sometimes-humans-just-need-to-sit-in-one-place-and-like-hurt/sit-and-hurt.gif'
+header: '/assets/images/blog/sometimes-humans-just-need-to-sit-in-one-place-and-like-hurt/sit-and-hurt.gif'
 tags:
   - Reflections
   - Personal Growth
@@ -29,7 +29,7 @@ I will say one of the (perhaps not so profound) observations I've made about my 
 
 (Enjoy this Venn diagram I made of this, not drawn to scale. I really like when people draw up cute little graphics to illustrate concepts.)
 <br />
-<img src="/src/static/assets/images/blog/sometimes-humans-just-need-to-sit-in-one-place-and-like-hurt/graphic.jpeg" alt="Venn diagram of understanding and conveying understanding" />
+<img src="/assets/images/blog/sometimes-humans-just-need-to-sit-in-one-place-and-like-hurt/graphic.jpeg" alt="Venn diagram of understanding and conveying understanding" />
 
 Yours, Yuri Cunha.
 

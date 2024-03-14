@@ -1,7 +1,7 @@
 ---
 title: Why I Abandoned Social Media
 description: Exploring the reasons behind my decision to leave the world of social media and embrace a more private and independent digital life.
-header: '/src/static/assets/images/blog/why-i-abandoned-social-media/why-i-abandoned-social-media.png'
+header: '/assets/images/blog/why-i-abandoned-social-media/why-i-abandoned-social-media.png'
 tags:
   - Social Media
   - Privacy

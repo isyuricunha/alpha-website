@@ -1,7 +1,7 @@
 ---
 title: "dAppling Network: A Simple Solution for Hosting Censorship-Resistant Web3 Frontends"
 description: dAppling Network is a new web hosting service that is built specifically for Web3 protocols. It uses the InterPlanetary File System (IPFS) to store and serve frontend code, which makes it censorship-resistant and decentralized. dAppling also provides a number of other features that make it a valuable tool for Web3 developers, including verifiable deployments, smart contract-controlled frontends, and performance.
-header: '/src/static/assets/images/blog/dappling-network/dappling.jpg'
+header: '/assets/images/blog/dappling-network/dappling.jpg'
 tags:
   - web hosting
   - censorship resistance

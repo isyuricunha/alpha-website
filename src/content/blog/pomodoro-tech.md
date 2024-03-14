@@ -1,7 +1,7 @@
 ---
 title: "The Pomodoro Technique: A Simple and Effective Way to Improve Focus"
 description: The article emphasizes the importance of planning and organization to achieve productivity and success in both work and personal life. It also provides references to related resources for further reading.
-header: '/src/static/assets/images/blog/pomodoro-tech/pomodoro-banner.jpg'
+header: '/assets/images/blog/pomodoro-tech/pomodoro-banner.jpg'
 tags:
   - productivity tips
   - planning

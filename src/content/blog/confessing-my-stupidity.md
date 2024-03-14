@@ -1,7 +1,7 @@
 ---
 title: Confessing my Stupidity
 description: A candid reflection on my lack of intelligence and how I'm dealing with it
-header: '/src/static/assets/images/blog/confessing-my-stupidity/confessing-my-stupidity.jpg'
+header: '/assets/images/blog/confessing-my-stupidity/confessing-my-stupidity.jpg'
 tags:
   - Reflections
   - Self-awareness

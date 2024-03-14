@@ -1,7 +1,7 @@
 ---
 title: Uses
 description: Tools and products that I use everyday.
-header: '/src/static/assets/images/blog/tools-and-products-that-i-use-everyday/tools-and-products-that-i-use-everyday.jpg'
+header: '/assets/images/blog/tools-and-products-that-i-use-everyday/tools-and-products-that-i-use-everyday.jpg'
 tags:
   - Tools
   - Products

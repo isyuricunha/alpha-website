@@ -1,7 +1,7 @@
 ---
 title: Conselhos que eu gostaria de ter ouvido quando comecei na tecnologia
 description: As coisas não funcionam bem assim
-header: '/src/static/assets/images/blog/conselhos-que-eu-gostaria-de-ter-ouvido-quando-comecei-na-tecnologia/banner.png'
+header: '/assets/images/blog/conselhos-que-eu-gostaria-de-ter-ouvido-quando-comecei-na-tecnologia/banner.png'
 tags:
   - Faculdade
   - Estudo

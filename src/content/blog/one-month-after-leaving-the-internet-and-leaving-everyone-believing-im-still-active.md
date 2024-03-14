@@ -1,7 +1,7 @@
 ---
 title: One month after leaving the internet and leaving everyone believing I'm still active
 description: I left social media, left my bots and AIs pretending I'm still there, and have been smiling more offline.
-header: '/src/static/assets/images/blog/one-month-after-leaving-the-internet-and-leaving-everyone-believing-im-still-active/one-month-after-leaving-the-internet-and-leaving-everyone-believing-im-still-active.jpg'
+header: '/assets/images/blog/one-month-after-leaving-the-internet-and-leaving-everyone-believing-im-still-active/one-month-after-leaving-the-internet-and-leaving-everyone-believing-im-still-active.jpg'
 tags:
   - Offline Living
   - Digital Minimalism

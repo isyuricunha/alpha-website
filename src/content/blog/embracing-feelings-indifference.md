@@ -1,7 +1,7 @@
 ---
 title: Embracing Feelings Amidst Indifference
 description: I'm feeling indifferent about a lot of things, and it's okay.
-header: '/src/static/assets/images/blog/embracing-feelings-indifference/embracing-feelings-indifference.png'
+header: '/assets/images/blog/embracing-feelings-indifference/embracing-feelings-indifference.png'
 tags:
   - indifferent
   - alone

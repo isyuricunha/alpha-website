@@ -1,7 +1,7 @@
 ---
 title: 50 days of meditation.
 description: Reflections on 50 days of meditation.
-header: '/src/static/assets/images/blog/50-days-of-meditation/50-days-of-meditation.jpg'
+header: '/assets/images/blog/50-days-of-meditation/50-days-of-meditation.jpg'
 tags:
   - Meditation
   - Self-Learning

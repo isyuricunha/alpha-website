@@ -1,7 +1,7 @@
 ---
 title: My last goodbye
 description: It's finally time to say goodbye to social media, and it took a while.
-header: '/src/static/assets/images/blog/my-last-goodbye/my-last-goodbye.jpg'
+header: '/assets/images/blog/my-last-goodbye/my-last-goodbye.jpg'
 tags:
   - social media
   - alone

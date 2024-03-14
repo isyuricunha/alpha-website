@@ -1,7 +1,7 @@
 ---
 title: How Privacy Has Become Increasingly Important
 description: An exploration of the increasing significance of privacy in today's digital world, emphasizing the need to safeguard personal information and protect autonomy.
-header: '/src/static/assets/images/blog/how-privacy-has-become-increasingly-important/privacy.png'
+header: '/assets/images/blog/how-privacy-has-become-increasingly-important/privacy.png'
 tags:
   - personal information
   - privacy
