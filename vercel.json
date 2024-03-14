@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/api/getLastFmSongs",
+      "dest": "https://alpha-website-yuricunha.netlify.app/.netlify/functions/getLastFmSongs"
+    }
+  ]
+}
