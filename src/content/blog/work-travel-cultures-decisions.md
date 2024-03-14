@@ -1,7 +1,7 @@
 ---
 title: Work, Travel, Cultures & Decisions
 description: Exploring work, travel, cultural encounters, and personal decisions.
-header: "./src/static/assets/images/blog/work-travel-cultures-decisions/work-travel-cultures-decisions.png"
+header: "/src/static/assets/images/blog/work-travel-cultures-decisions/work-travel-cultures-decisions.png"
 tags:
   - Reflections
   - Decisions
