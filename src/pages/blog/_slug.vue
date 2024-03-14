@@ -20,7 +20,7 @@ export default Vue.extend({
     const post = (await this.$content(
       "blog",
       this.$route.params.slug
-    ).fetch()) as Post
+    ).fetch()) as unknown as Post
 
     if (!post) {
       this.$router.push("/blog")
@@ -71,41 +71,34 @@ export default Vue.extend({
           href,
         },
       ],
-      meta: this.$prepareMeta(
+      meta: [
         {
-          title,
-          description,
-          image,
-          keywords: `${tags}, yuri cunha blog, blog, technology, database, day-to-day, life, software, discord, isyuricunha`,
-          url: href,
+          hid: "description",
+          name: "description",
+          content: description,
         },
-        [
-          {
-            name: "twitter:card",
-            content: "summary_large_image",
-          },
-          {
-            name: "article:published-time",
-            content: post?.createdAt || null,
-          },
-          {
-            name: "twitter:label1",
-            content: "History",
-          },
-          {
-            name: "twitter:data1",
-            content: post?.createdAt,
-          },
-          {
-            name: "twitter:label2",
-            content: "Reading Time",
-          },
-          {
-            name: "twitter:data2",
-            content: `${this.$getReadingTime} min`,
-          },
-        ]
-      ),
+        {
+          hid: "og:description",
+          name: "og:description",
+          content: description,
+        },
+        {
+          hid: "twitter:description",
+          name: "twitter:description",
+          content: description,
+        },
+        {
+          hid: "og:image",
+          name: "og:image",
+          content: image,
+        },
+        {
+          hid: "twitter:image",
+          name: "twitter:image",
+          content: image,
+        },
+        // Adicione mais meta tags conforme necessário
+      ],
     }
   },
   watch: {
