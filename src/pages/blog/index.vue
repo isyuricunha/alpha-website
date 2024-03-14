@@ -8,7 +8,7 @@ import type { FetchReturn } from "@nuxt/content/types/query-builder"
 export default Vue.extend({
   data() {
     return {
-      formatter: new Intl.DateTimeFormat("tr-TR", {
+      formatter: new Intl.DateTimeFormat("en-US", {
         month: "short",
         day: "numeric",
       }),
