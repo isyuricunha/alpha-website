@@ -50,7 +50,7 @@ export default Vue.extend({
         <IconChevron left class="h-4 w-4 flex-shrink-0" />
 
         <span v-if="prev" class="truncate">{{ prev.title }}</span>
-        <span v-else class="truncate">Eski Gönderi Yok</span>
+        <span v-else class="truncate">There are no old posts</span>
       </component>
 
       <component
@@ -64,7 +64,7 @@ export default Vue.extend({
         "
       >
         <span v-if="next" class="truncate">{{ next.title }}</span>
-        <span v-else class="truncate">Yeni Gönderi Yok</span>
+        <span v-else class="truncate">There are no new posts</span>
 
         <IconChevron right class="h-4 w-4 flex-shrink-0" />
       </component>
