@@ -85,13 +85,13 @@ export default Vue.extend({
 
   <div v-else class="space-y-6 pt-14">
     <h1 class="font-semibold text-2xl text-black/90 dark:text-white/90">
-      Gönderi yüklenemedi.
+      The post couldn't be loaded.
     </h1>
 
     <p class="text-black/50 dark:text-white/30">
-      Aradığınız gönderinin blogumda olduğuna, adreste bir yanlışlık olmadığına
-      emin olun. Arama özelliğini kullanarak gönderiyi aratabilir, anasayfaya
-      dönerek diğer gönderilerime ulaşabilirsiniz.
+      Make sure that the post you're looking for is on my blog and there's no
+      mistake in the address. You can search for the post using the search
+      feature or return to the homepage to access my other posts.
     </p>
 
     <Button icon="IconBack" @click.native="$router.back()">Geri Dön</Button>
