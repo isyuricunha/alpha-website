@@ -57,7 +57,7 @@ export default Vue.extend({
       post.description || "You're invited to read this post on Yuri Cunha blog."
 
     const tags = getTags?.join(", ") || title
-    const href = `https://alpha.yuricunha.com${this.$route?.path}`
+    const href = `https://alpha.yuricunha.com/${this.$route?.path}`
     const image = `/og-images/${post.slug}.png`
 
     return {
