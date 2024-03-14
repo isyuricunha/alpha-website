@@ -38,7 +38,7 @@ export default Vue.extend({
       <IconFire
         v-if="meta.special"
         v-tippy="{
-          content: 'Popüler gönderi',
+          content: 'Popular post',
           placement: 'bottom',
         }"
         class="flex-shrink-0 h-5 text-red-600 w-5 dark:text-red-500"
