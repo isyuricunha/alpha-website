@@ -44,7 +44,7 @@ export const generateImage = async ({
   const svg = await satori(
     {
       type: "div",
-      key: 1,
+      key: "1",
       props: {
         style: {
           height: "100%",
