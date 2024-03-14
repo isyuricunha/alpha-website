@@ -58,7 +58,7 @@ export default Vue.extend({
 
     const tags = getTags?.join(", ") || title
     const href = `https://yuricunha.com/${this.$route?.path}`
-    const image = `/og-images/${post.slug}.png`
+    const image = `/assets/images/blog/${post.slug}/${post.slug}.png`
 
     return {
       bodyAttrs: {
