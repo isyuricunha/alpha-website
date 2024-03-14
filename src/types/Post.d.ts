@@ -24,6 +24,7 @@ export interface Toc {
 }
 
 export interface Post {
+  image: string
   header?: string
   slug?: string
   description?: string
