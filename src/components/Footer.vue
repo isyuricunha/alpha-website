@@ -4,7 +4,7 @@ import Vue from "vue"
 export default Vue.extend({
   computed: {
     /**
-     * Returns localized GitHub notice string in Turkish/English according to current route.
+     * Returns localized GitHub notice string in Portuguese/English according to current route.
      * @returns {string}
      */
     getLocalizedNotice(): string {
