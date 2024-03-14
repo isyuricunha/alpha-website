@@ -44,8 +44,8 @@ export default Vue.extend({
   async fetch() {
     const url =
       process.env.NODE_ENV === "production"
-        ? "https://alpha-website-yuricunha.netlify.app/.netlify/functions/getLastFmSongs"
-        : "http://alpha.yuricunha.com/api/getLastFmSongs"
+        ? "http://alpha.yuricunha.com/api/getLastFmSongs"
+        : "https://alpha-website-yuricunha.netlify.app/.netlify/functions/getLastFmSongs"
 
     const { data: songs }: { data: LastFmResponse } = await this.$axios(url)
 
