@@ -15,10 +15,10 @@ export interface Meta {
 
 const defaultKeywords = [
   "technology",
-  "turkish",
+  "brazil",
   "developer",
   "portfolio",
-  "vue",
+  "database",
   "nuxt",
   "tailwindcss",
 ]
