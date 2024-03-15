@@ -1,6 +1,6 @@
 export default {
   social: {
-    discord: "https://discord.gg/rpvNmR9cP9",
+    discord: "https://discord.com/users/1018988240151253002",
     twitter: "https://twitter.com/isyuricunha/",
     x: "https://x.com/isyuricunha/",
     github: "https://github.com/isyuricunha/",

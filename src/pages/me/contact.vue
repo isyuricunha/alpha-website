@@ -33,13 +33,13 @@ export default Vue.extend({
       const social = this.$config.social
 
       const titles = {
-        discord: "Join my Discord server!",
-        twitter: "Follow me on Twitter!",
-        x: "Follow me on X!",
-        github: "Follow me on GitHub!",
-        instagram: "Follow me on Instagram!",
-        trello: "View my Trello board!",
-        linkedIn: "Connect with me on LinkedIn!",
+        discord: "Hang out with me on Discord!",
+        twitter: "Stay up-to-date, follow me on Twitter!",
+        x: "Connect on X!",
+        github: "Fork my projects on GitHub!",
+        instagram: "See my world on Instagram!",
+        trello: "Peek at my Trello board!",
+        linkedIn: "Let's connect on LinkedIn!",
       }
 
       const array: Link[] = []
@@ -69,7 +69,7 @@ export default Vue.extend({
 <template>
   <PageLayout
     title="Contact"
-    description="If you have any questions, feel free to contact me."
+    description="Have a question that'll blow my mind? Ask away!"
   >
     <div class="grid gap-4 md:grid-cols-2">
       <Card
@@ -98,7 +98,7 @@ export default Vue.extend({
           <IconAt class="h-8 w-8" />
         </template>
 
-        Send me an email!
+        Let's chat by email!
       </Card>
     </div>
   </PageLayout>
