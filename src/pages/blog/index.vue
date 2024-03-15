@@ -105,7 +105,9 @@ export default Vue.extend({
           <span
             class="w-[20%] text-black/50 dark:text-white/50 md:w-1/12 flex-shrink-0"
           >
-            {{ formatter.format(new Date(post.createdAt)) }}
+            {{
+              post.createdAt ? formatter.format(new Date(post.createdAt)) : ""
+            }}
           </span>
 
           <span
