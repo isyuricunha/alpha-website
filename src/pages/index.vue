@@ -93,19 +93,18 @@ export default Vue.extend({
           {
             title: "Repositories",
             description:
-              "Want to see and/or contribute to my code and public repositories?",
+              "Peek under the hood! Here's where the code magic happens.",
             href: "/me/repos",
           },
           {
             title: "Songs",
             description:
-              "Trust your taste? Compare your favourite songs and artists with mine!",
+              "Let's get down! See if our musical tastes are a match made in audio heaven.",
             href: "/me/songs",
           },
           {
             title: "Contact",
-            description:
-              "Need help with anything? Want to get in touch? Send me a message!",
+            description: "Got a question or just wanna chat? Hit me up!",
             href: "/me/contact",
           },
         ],
@@ -125,13 +124,13 @@ export default Vue.extend({
           {
             title: "Daily Songs",
             description:
-              "Fresh, cool and great song recommendations from me each day!",
+              "Your daily dose of musical awesome, hand-picked by yours truly!",
             href: "/daily",
           },
           {
             title: "Donate",
             description:
-              "Want to support me and my projects so that I can create better stuff in the future?",
+              "Fuel the creative fire! Your support helps me make even cooler stuff.",
             href: "/donate",
           },
         ],
