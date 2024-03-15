@@ -220,7 +220,7 @@ export default Vue.extend({
         :url="`https://yuricunha.com/blog/${post.slug}`"
         :identifier="`/blog/${post.slug}`"
         :slug="post.slug"
-        lang="tr"
+        lang="en"
         class="mt-10"
       />
 
