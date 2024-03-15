@@ -71,8 +71,7 @@ export default Vue.extend({
           {
             title: "Estácio",
             url: "http://www.estacio.br/",
-            position:
-              "Higher Technological Education, Data Modeling/Warehousing and Database AdministrationHigher Technological Education, Data Modeling/Warehousing and Database Administration ",
+            position: "Data Modeling/Warehousing and Database Administration",
             date: "2021 - present",
           },
           {
