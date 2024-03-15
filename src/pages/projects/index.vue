@@ -2,8 +2,7 @@
 export default {
   head() {
     const title = "Projects"
-    const description =
-      "Check out my projects and see what I can build for you!"
+    const description = "My code builds dreams. See it in action!"
 
     return {
       title,
