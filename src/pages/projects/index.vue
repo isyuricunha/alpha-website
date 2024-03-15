@@ -14,6 +14,20 @@ export default {
   },
   data: () => ({
     projects: [
+      {
+        client: "",
+        name: "Rain for relax",
+        description: "A simple website with rain sound to relax.",
+        image:
+          "https://best-old-website.yuricunha.com/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisyuricunha%2Fwebsite%2F42f264115965e0e0abbd4e19c28cb7873eb18382%2Fpublic%2Fstatic%2Fimages%2FforDemo%2Frain-for-relax.png&w=1920&q=75",
+        buttons: [
+          {
+            text: "Visit",
+            link: "https://www.rain-for-relax.yuricunha.com/",
+            icon: "IconLink",
+          },
+        ],
+      },
       // {
       //   client: "Japan",
       //   name: "SWY35 Message Board",
