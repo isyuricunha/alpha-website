@@ -54,7 +54,7 @@ export default Vue.extend({
       if (this.license && recognizedLicenses.includes(this.license)) {
         return this.license
       } else {
-        return "Personal License"
+        return "Personal License or Unknown"
       }
     },
   },
