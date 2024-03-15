@@ -44,6 +44,19 @@ export default Vue.extend({
       // @ts-ignore-next-line
       return icons[this.language] || this.language
     },
+    /**
+     * Returns proper license name or "Personal License" if not recognized.
+     * @returns {string}
+     */
+    getFormattedLicense(): string {
+      const recognizedLicenses = ["MIT", "Apache", "GPL", "BSD"]
+
+      if (this.license && recognizedLicenses.includes(this.license)) {
+        return this.license
+      } else {
+        return "Personal License"
+      }
+    },
   },
 })
 </script>
@@ -88,11 +101,10 @@ export default Vue.extend({
       </div>
 
       <div
-        v-if="license"
         class="flex items-center justify-between text-black/50 dark:text-white/30"
       >
         <span>License:</span>
-        <span>{{ license }}</span>
+        <span>{{ getFormattedLicense }}</span>
       </div>
     </div>
   </div>
