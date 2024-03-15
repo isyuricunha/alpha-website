@@ -256,10 +256,7 @@ export default {
 </script>
 
 <template>
-  <PageLayout
-    title="My Projects"
-    description="Check out the projects I worked on!"
-  >
+  <PageLayout title="My Projects" description="Get inspired by my projects!">
     <section class="flex items-center flex-wrap gap-2">
       <span class="text-sm">Jump to:</span>
       <Button
