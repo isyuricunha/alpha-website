@@ -26,6 +26,71 @@ export default {
             link: "https://www.rain-for-relax.yuricunha.com/",
             icon: "IconLink",
           },
+          {
+            text: "GitHub",
+            link: "https://github.com/isyuricunha/rain-for-relax",
+            icon: "IconBrand:github",
+          },
+        ],
+      },
+      {
+        client: "",
+        name: "Massage Alternativa",
+        description:
+          "A website for a massage therapist. It was built using HTML, CSS and JavaScript. It is fully responsive and has a contact form. SQL Server, Linux and Firebase in backend.",
+        image:
+          "https://best-old-website.yuricunha.com/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisyuricunha%2Fwebsite%2Fmain%2Fpublic%2Fstatic%2Fimages%2FforDemo%2Fmassage-alternativa.png&w=1920&q=75",
+        buttons: [
+          {
+            text: "Visit",
+            link: "https://massagealternativa.com/",
+            icon: "IconLink",
+          },
+          {
+            text: "GitHub",
+            link: "https://github.com/isyuricunha/massage-alternativa",
+            icon: "IconBrand:github",
+          },
+        ],
+      },
+      {
+        client: "",
+        name: "Paris Pharma",
+        description:
+          "A website for a Paris Pharma. It was built using HTML, CSS and JavaScript.",
+        image:
+          "https://best-old-website.yuricunha.com/static/images/cloud/parispharma.png",
+        buttons: [
+          {
+            text: "Visit",
+            link: "https://parispharmadrogarias.com.br/",
+            icon: "IconLink",
+          },
+          {
+            text: "GitHub",
+            link: "https://github.com/isyuricunha/paris-pharma",
+            icon: "IconBrand:github",
+          },
+        ],
+      },
+      {
+        client: "",
+        name: "System Solution Automation",
+        description:
+          "A website for a ssautomation. It was built using HTML, CSS and JavaScript. It is fully responsive and has a contact form. SQL Server, Linux and Firebase in backend.",
+        image:
+          "https://best-old-website.yuricunha.com/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisyuricunha%2Fwebsite%2Fmain%2Fpublic%2Fstatic%2Fimages%2FforDemo%2Fssautomation.png&w=1920&q=75",
+        buttons: [
+          {
+            text: "Visit",
+            link: "https://www.ssautomation.yuricunha.com/",
+            icon: "IconLink",
+          },
+          {
+            text: "GitHub",
+            link: "https://github.com/isyuricunha/solution-system-autmation",
+            icon: "IconBrand:github",
+          },
         ],
       },
       // {
