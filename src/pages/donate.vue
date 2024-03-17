@@ -22,6 +22,12 @@ export default Vue.extend({
           pix: "54963736-9cc5-4347-bdf9-7d249a856ce7",
           revealed: false,
         },
+        {
+          image: "https://thumbs2.imgbox.com/bf/68/ifRWI8Sb_t.png",
+          name: "PayPal",
+          pix: "@isyuricunha or isyuricunha@duck.com",
+          revealed: false,
+        },
       ],
     }
   },
