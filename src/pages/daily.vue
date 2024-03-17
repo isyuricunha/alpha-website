@@ -62,7 +62,7 @@ export default Vue.extend({
       const { url, spotifyUrl } = this.selected
 
       return {
-        youtube: url || "UCHnkvuxhC6ufNxgIQrQnYSQ",
+        youtube: url || "deMLg4FPFhQ",
         spotify: spotifyUrl || null,
       }
     },
