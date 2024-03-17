@@ -13,31 +13,31 @@ export default Vue.extend({
         {
           image: "https://images2.imgbox.com/8e/b3/8YVMpvRf_o.png",
           name: "99 Pay",
-          iban: "pix@yuricunha.com",
+          pix: "pix@yuricunha.com",
           revealed: false,
         },
         {
           image: "https://i.imgur.com/Kq2c0SF.jpg",
           name: "Ziraat Bank",
-          iban: "TR 1100 0100 2544 95837917 5001",
+          pix: "TR 1100 0100 2544 95837917 5001",
           revealed: false,
         },
         {
           image: "https://i.imgur.com/MSdGupc.jpg",
           name: "Akbank",
-          iban: "TR72 0004 6000 2088 8000 5070 94",
+          pix: "TR72 0004 6000 2088 8000 5070 94",
           revealed: false,
         },
         {
           image: "https://i.imgur.com/Y0OvRDN.jpg",
           name: "QNB Finansbank",
-          iban: "TR96 0011 1000 0000 0086 7646 98",
+          pix: "TR96 0011 1000 0000 0086 7646 98",
           revealed: false,
         },
         {
           image: "https://i.imgur.com/Z3YKlkF.jpg",
           name: "DenizBank",
-          iban: "TR31 0013 4000 0189 9352 2000 01",
+          pix: "TR31 0013 4000 0189 9352 2000 01",
           revealed: false,
         },
       ],
@@ -190,7 +190,7 @@ export default Vue.extend({
                 "
                 @click="account.revealed = true"
               >
-                {{ account.revealed ? account.iban : "Click to Reveal" }}
+                {{ account.revealed ? account.pix : "Click to Reveal" }}
               </span>
             </div>
           </div>
