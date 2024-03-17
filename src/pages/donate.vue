@@ -13,13 +13,13 @@ export default Vue.extend({
         {
           image: "https://thumbs2.imgbox.com/80/32/o8zokzji_t.png",
           name: "99 Pay",
-          pix: "pix@yuricunha.com",
+          pix: "53d8b06b-68a6-4662-a60a-969f7ff95f47",
           revealed: false,
         },
         {
-          image: "https://i.imgur.com/Kq2c0SF.jpg",
+          image: "https://thumbs2.imgbox.com/cb/21/XlLTBach_t.png",
           name: "NuBank",
-          pix: "pix@yuricunha.com",
+          pix: "54963736-9cc5-4347-bdf9-7d249a856ce7",
           revealed: false,
         },
       ],
