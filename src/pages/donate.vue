@@ -18,26 +18,8 @@ export default Vue.extend({
         },
         {
           image: "https://i.imgur.com/Kq2c0SF.jpg",
-          name: "Ziraat Bank",
-          pix: "TR 1100 0100 2544 95837917 5001",
-          revealed: false,
-        },
-        {
-          image: "https://i.imgur.com/MSdGupc.jpg",
-          name: "Akbank",
-          pix: "TR72 0004 6000 2088 8000 5070 94",
-          revealed: false,
-        },
-        {
-          image: "https://i.imgur.com/Y0OvRDN.jpg",
-          name: "QNB Finansbank",
-          pix: "TR96 0011 1000 0000 0086 7646 98",
-          revealed: false,
-        },
-        {
-          image: "https://i.imgur.com/Z3YKlkF.jpg",
-          name: "DenizBank",
-          pix: "TR31 0013 4000 0189 9352 2000 01",
+          name: "NuBank",
+          pix: "pix@yuricunha.com",
           revealed: false,
         },
       ],
