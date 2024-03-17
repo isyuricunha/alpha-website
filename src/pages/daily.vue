@@ -66,13 +66,13 @@ export default Vue.extend({
      */
     getSelectedSong(): { youtube: string; spotify: string | null } {
       if (!this.selected) {
-        return { youtube: "jh2N79XOSTY", spotify: null }
+        return { youtube: "tgHm0z84_CM", spotify: null }
       }
 
       const { url, spotifyUrl } = this.selected || {}
 
       return {
-        youtube: url || "jh2N79XOSTY",
+        youtube: url || "tgHm0z84_CM",
         spotify: spotifyUrl || null,
       }
     },
@@ -103,7 +103,7 @@ export default Vue.extend({
      * Returns the selected song's title.
      */
     getSelectedTitle(): string {
-      return this.selected?.metadata?.title || "Unknown"
+      return this.selected?.metadata?.title || "Heart On Ice"
     },
     /**
      * Returns the selected song's date in locale format.
@@ -170,7 +170,7 @@ export default Vue.extend({
             <span v-else class="text-gray-700 truncate dark:text-gray-300">{{
               getSelectedSongMetadata && getSelectedSongMetadata.artist
                 ? getSelectedSongMetadata.artist
-                : "Unknown"
+                : "Rod Wave"
             }}</span>
           </Card>
 
