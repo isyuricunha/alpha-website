@@ -22,7 +22,7 @@ export default Vue.extend({
   >
     <div class="responsive-screen">
       <div class="space-y-4 text-center sm:(space-y-0 space-x-6 text-left)">
-        <span class="text-center">{{ "Build with love" }}</span>
+        <span class="text-center">{{ "Build with 💙" }}</span>
       </div>
     </div>
   </div>
