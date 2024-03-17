@@ -28,9 +28,15 @@ export default Vue.extend({
   async fetch() {
     const songs = await this.$getDaily(10)
 
-    this.selected = songs[0]
-    this.songs = songs || []
+    if (Array.isArray(songs)) {
+      this.selected = songs[0]
+      this.songs = songs
+    } else {
+      this.selected = {} as Song
+      this.songs = []
+    }
   },
+
   head() {
     const title = "Song Recommendations"
     const description =
