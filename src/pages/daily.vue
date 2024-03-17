@@ -69,13 +69,14 @@ export default Vue.extend({
         return { youtube: "jh2N79XOSTY", spotify: null }
       }
 
-      const { url, spotifyUrl } = this.selected
+      const { url, spotifyUrl } = this.selected || {}
 
       return {
         youtube: url || "jh2N79XOSTY",
         spotify: spotifyUrl || null,
       }
     },
+
     /**
      * Returns the metadata of the selected song.
      */
