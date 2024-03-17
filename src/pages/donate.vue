@@ -11,9 +11,9 @@ export default Vue.extend({
       sponsors: [] as ISponsor[],
       accounts: [
         {
-          image: "https://i.imgur.com/cxiXNEb.jpg",
-          name: "Papara",
-          iban: "8664721806",
+          image: "https://imgur.com/a/M8QyRsT",
+          name: "99 Pay",
+          pix: "pix@yuricunha.com",
           revealed: false,
         },
         {
