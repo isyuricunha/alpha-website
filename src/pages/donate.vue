@@ -42,7 +42,7 @@ export default Vue.extend({
   head() {
     const title = "Donate"
     const description =
-      "Like my projects? You can donate to me to boost my performance and help me create more, better projects in the future!"
+      "Every contribution makes a difference. Donate to keep me going!"
 
     return {
       title,
@@ -92,7 +92,7 @@ export default Vue.extend({
   <PageLayout
     title="Donate"
     :description="[
-      'If you like my projects and/or what I do and you want to contribute, make me happy, you can donate to me with the information on this page! Thank you ♥',
+      'Show your support with a donation! It means a lot to keep creating.',
       `P.S. Use 'Yuri Cunha' as the name of your transactions.`,
     ]"
     class="space-y-12"
