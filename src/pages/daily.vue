@@ -59,6 +59,10 @@ export default Vue.extend({
      * Returns the selected song's ID, if none present, returns a fireplace video ID instead.
      */
     getSelectedSong(): { youtube: string; spotify: string | null } {
+      if (!this.selected) {
+        return { youtube: "jh2N79XOSTY", spotify: null }
+      }
+
       const { url, spotifyUrl } = this.selected
 
       return {
@@ -157,7 +161,9 @@ export default Vue.extend({
             />
 
             <span v-else class="text-gray-700 truncate dark:text-gray-300">{{
-              getSelectedSongMetadata.artist || "Unknown"
+              getSelectedSongMetadata && getSelectedSongMetadata.artist
+                ? getSelectedSongMetadata.artist
+                : "Unknown"
             }}</span>
           </Card>
 
