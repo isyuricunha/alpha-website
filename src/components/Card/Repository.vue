@@ -38,7 +38,7 @@ export default Vue.extend({
      */
     getLanguageIcon(): string {
       const icons = {
-        Vue: "Vue.js",
+        Vercel: "Vercel",
       }
 
       // @ts-ignore-next-line

@@ -140,9 +140,9 @@ export default Vue.extend({
           title: "Development",
           items: [
             "SQL",
-            "Vue.js",
+            "Vercel",
             "React.js",
-            "HTML5",
+            "Next.js",
             "Tailwind CSS",
             "Node.js",
             "Sass",
@@ -175,8 +175,11 @@ export default Vue.extend({
               title: "Firebase",
             },
             {
-              title: "Netlify",
+              title: "Vercel",
               iconPack: "IconBrand",
+            },
+            {
+              title: "MongoDB",
             },
           ],
         },
@@ -227,7 +230,7 @@ export default Vue.extend({
             class="flex items-center justify-center md:justify-start gap-x-3 gap-y-2 flex-wrap"
           >
             <Button
-              v-for="item in ['SQL', 'Vue.js', 'React.js']"
+              v-for="item in ['SQL', 'Vercel', 'React.js']"
               :key="item"
               class="inline-block"
             >
