@@ -6,7 +6,7 @@ export default {
     github: "https://github.com/isyuricunha/",
     linkedIn: "https://linkedin.com/in/isyuricunha/",
     instagram: "https://instagram.com/isyuricunha/",
-    email: "me@yuricunha.com",
+    email: "isyuricunha@proton.me",
   },
   sponsor: {
     github: "https://github.com/sponsors/isyuricunha",
