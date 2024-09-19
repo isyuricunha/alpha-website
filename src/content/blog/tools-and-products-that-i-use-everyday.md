@@ -8,7 +8,7 @@ tags:
 createdAt: 2022-10-31T18:26:30.741-03:00
 ---
 
-Tools come and go. But some things just stick. In the list below I grouped all the tools that I use for work and at home. If you have questions about anything on this list, feel free to [message me](mailto:isyuricunha@duck.com).
+Tools come and go. But some things just stick. In the list below I grouped all the tools that I use for work and at home. If you have questions about anything on this list, feel free to [message me](mailto:contact@yuricunha.com).
 
 ## Productivity
 
